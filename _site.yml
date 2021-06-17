@@ -1,0 +1,7 @@
+name: "Math 465 website"
+output_dir: "."
+navbar:
+  title: "Welcome to Math 465"
+  left:
+    - text: "Start here..."
+      href: index.html
