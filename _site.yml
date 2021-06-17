@@ -5,3 +5,6 @@ navbar:
   left:
     - text: "Start here..."
       href: index.html
+    - text: "My Projects"
+      href: project.html      
+      
